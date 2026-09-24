@@ -165,6 +165,12 @@ This development cycle follows a continuous process:
 
 **Business Requirements → Solution Design → Development → Testing → Production Deployment → User Feedback → Enhancement**
 
+## 👩🏽‍💻 My Role
+
+I serve as Treasurer and Co-Director for the organization and designed and developed this system from direct knowledge of its operational and financial workflows.
+
+My responsibilities span requirements analysis, solution design, database architecture, application development, workflow automation, testing, deployment, production support, and ongoing product development.
+
 ## 🗺️ Management Platform Roadmap
 
 The registration application is evolving into a broader dance management platform designed to support the organization's financial, administrative, program, production, event, family and development operations throughout the season.
@@ -267,3 +273,4 @@ Registration data is transformed into a generated PDF packet containing student 
 The agreement workflow records electronic signatures and supports separate authorized-officer countersignatures.
 
 ![Electronic Agreement Signatures](docs/electronic-agreement-signatures.png)
+
