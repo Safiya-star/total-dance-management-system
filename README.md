@@ -1,4 +1,21 @@
 # Total Dance Management System
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-Production-black)
+![Database](https://img.shields.io/badge/Database-SQLite-blue)
+![Status](https://img.shields.io/badge/Status-Production-brightgreen)
+![Repository](https://img.shields.io/badge/Repository-Public%20Case%20Study-blueviolet)
+
+### Quick Navigation
+
+[Business Problem](#business-problem) •
+[Solution](#solution) •
+[Technology Stack](#technology-stack) •
+[System Architecture](#system-architecture) •
+[Core Business Logic & Workflow Automation](#core-business-logic--workflow-automation) •
+[Production Engineering & Iterative Development](#production-engineering--iterative-development) •
+[My Role](#my-role) •
+[Management Platform Roadmap](#management-platform-roadmap) •
+[System in Action](#system-in-action)
 
 A production dance registration and administration platform built for Total Dance Development Program / Dancical Productions.
 
