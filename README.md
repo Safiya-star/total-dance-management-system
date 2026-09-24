@@ -223,3 +223,47 @@ The registration application is evolving into a broader dance management platfor
 - Payment and contribution tracking
 - Production and event sponsorship assignments
 - Sponsor recognition and fulfillment tracking
+
+## 🖥️ System in Action
+
+The following examples demonstrate how business requirements move through the system from registration and enrollment to financial management, administrative processing, and automated documentation.
+
+### Administrative Dashboard
+
+The administrative dashboard provides a centralized view of registrations, payment status, registration status, and student records. Search and filtering tools support day-to-day administrative management.
+
+![Administrative Dashboard](docs/Admin%20dashboard%20screenshot.png)
+
+### Dynamic Enrollment & Tuition Logic
+
+The registration workflow uses conditional logic to display enrollment options based on the selections made for each student.
+
+**Initial Program Selection**
+
+![Initial Program Selection](docs/program-enrollment-default.png)
+
+Selecting PAW and an applicable tuition plan dynamically reveals additional enrollment options. In the example below, Plan C displays individual class selections and automatically updates the student's financial summary based on the selected classes.
+
+**Dynamic PAW Enrollment**
+
+![Dynamic PAW Enrollment](docs/program-enrollment-dynamic.png)
+
+### Financial & Administrative Management
+
+Enrollment information flows into the administrative system where program selections, tuition obligations, payment schedules, verified payments, and account balances can be managed.
+
+![Administrative Financial Summary](docs/admin-financial-summary.png)
+
+Registration readiness provides administrators with a consolidated view of the requirements that must be completed before a registration can be activated.
+
+![Registration Readiness](docs/admin-registration-readiness.png)
+
+### Automated Document Generation
+
+Registration data is transformed into a generated PDF packet containing student and financial information, applicable agreements, and registration documentation.
+
+![Generated Registration Packet](docs/generated-registration-packet.png)
+
+The agreement workflow records electronic signatures and supports separate authorized-officer countersignatures.
+
+![Electronic Agreement Signatures](docs/electronic-agreement-signatures.png)
